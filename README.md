@@ -4,7 +4,7 @@ Paying meticulous attention to detail, I performed a thorough cleaning and stand
 # About Uncleaned Dataset 
 This uncleaned dataset contains 1020 rows × 11 columns
 
-![Screenshot 2024-03-10 162810](https://github.com/arun-iiests/Cleaning_-_EDA_on_Smartphone_Dataset/assets/124171557/abe129ad-db0a-4112-998c-c6213dc8d850)
+
 
 #  Data Cleaning and Transformation
 In the process of cleaning a smartphone dataset, I tackled various issues to ensure the data is accurate and easy to understand. 
@@ -22,14 +22,9 @@ In the process of cleaning a smartphone dataset, I tackled various issues to ens
     
 These changes not only improved the data quality but also made the overall dataset more organized and user-friendly.
 
-## Cleaned Dataset
-After cleaning and transforming  uncleaned dataset we got this informative and meaningful dataset having 980 rows and 25 columns
 
-![Screenshot 2024-03-10 165102](https://github.com/arun-iiests/Cleaning_-_EDA_on_Smartphone_Dataset/assets/124171557/c7e5ceb8-6103-4e4c-9d3d-e2522214e88e)
-![Screenshot 2024-03-10 165143](https://github.com/arun-iiests/Cleaning_-_EDA_on_Smartphone_Dataset/assets/124171557/4dd0a074-b1fe-4fe1-b6a2-57a2e0d35008)
 
-## EXploratory Data Analysis(EDA)
-[Click Me](https://jovian.com/arun1151kumar/smartphone-eda-unleashed) for Complete EDA Report
+
 
 # Conclusion:
 
